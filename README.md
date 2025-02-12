@@ -8,9 +8,9 @@ Passionné par le code, toujours en quête d’apprentissage et de nouveaux proj
 
 ## 📊 GitHub Stats  
 
-![Dax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)  
+![Dax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatsdaxdeveloper&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsdaxdeveloper&layout=compact&theme=radical)  
 
 ## 🛠️ Technologies & Outils  
 
@@ -21,5 +21,5 @@ Passionné par le code, toujours en quête d’apprentissage et de nouveaux proj
 
 ## 📫 Contact  
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](ton_lien_discord)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](thatsdaxdeveloper)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtodaxdev@gmail.com)  
