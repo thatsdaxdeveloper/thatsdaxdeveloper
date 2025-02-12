@@ -1,4 +1,4 @@
-# 👋 Hello, I'm a Developer!  
+# Wassup, I'm a Developer!  
 
 👨‍💻 **Backend & Mobile Developer**  
 🔹 **Python Backend** | Django  
