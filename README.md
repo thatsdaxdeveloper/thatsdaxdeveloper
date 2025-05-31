@@ -31,7 +31,7 @@
 
 ### 🔗 Me retrouver ailleurs
 
-- 🌐 [Mon site web](https://nathanaelmoussou.pythonanywhere.com/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Python"/> [Mon site web](https://nathanaelmoussou.pythonanywhere.com/)
 - 📷 [Instagram](https://instagram.com/n9ncharles)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathanael-moussou-51a857367/)
 
