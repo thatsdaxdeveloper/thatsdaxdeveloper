@@ -31,9 +31,9 @@
 
 ### 🔗 Me retrouver ailleurs
 
-- 🌐 [Mon site web](https://tonsite.com)
-- 📷 [Instagram](https://instagram.com/tonpseudo)
-- 💼 [LinkedIn](https://linkedin.com/in/tonprofil)
+- 🌐 [Mon site web](https://nathanaelmoussou.pythonanywhere.com/)
+- 📷 [Instagram](https://instagram.com/n9ncharles)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nathanael-moussou-51a857367/)
 
 ---
 
