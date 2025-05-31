@@ -1,25 +1,40 @@
-# Wassup, I'm a Developer! 
+<h1 align="center">Salut 👋, je suis Nathanael.M</h1>
+<h3 align="center">Développeur Backend Python & Mobile Flutter</h3>
 
-👨‍💻 **Backend & Mobile Developer**  
-🔹 **Python Backend** | Django  
-🔹 **Flutter Mobile** | Apps performantes 🚀  
+---
 
-Passionné par le code, toujours en quête d’apprentissage et de nouveaux projets.  
+- 👨‍💻 Je code en **Python** depuis 2019  
+- 📱 Je développe des applis mobiles avec **Flutter** depuis 2024  
+- 🚀 Toujours prêt à apprendre, collaborer et construire de nouveaux projets
 
-## 📊 GitHub Stats  
+---
 
-![Dax's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatsdaxdeveloper&show_icons=true&theme=radical)  
+### 🛠️ Langages & outils
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsdaxdeveloper&layout=compact&theme=radical)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+</p>
 
-## 🛠️ Technologies & Outils  
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+### 📈 Statistiques GitHub
 
-## 📫 Contact  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nathanael-m&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanael-m&layout=compact&theme=tokyonight" alt="langues" height="150"/>
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](thatsdaxdeveloper)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtodaxdev@gmail.com)  
+---
+
+### 🔗 Me retrouver ailleurs
+
+- 🌐 [Mon site web](https://tonsite.com)
+- 📷 [Instagram](https://instagram.com/tonpseudo)
+- 💼 [LinkedIn](https://linkedin.com/in/tonprofil)
+
+---
+
+> *"Le code, c’est la poésie en langage machine."*  
