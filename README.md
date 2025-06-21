@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Nathanael.M</h1>
+<h1 align="center">Salut 👋, je suis Dax</h1>
 <h3 align="center">Développeur Backend Python & Mobile Flutter</h3>
 
 ---
@@ -34,6 +34,7 @@
 - 🌐 [Mon site web](https://nathanaelmoussou.pythonanywhere.com/)
 - 📷 [Instagram](https://instagram.com/n9ncharles)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nathanael-moussou-51a857367/)
+- 🎬 [YouTube](https://youtube.com/@thatsdaxdeveloper?si=HjRpw1HDtTnB8oaY)
 
 ---
 
