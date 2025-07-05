@@ -45,8 +45,8 @@ Toujours curieux, toujours en apprentissage, toujours en action 💡
 ## 📈 Statistiques GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daxusername&show_icons=true&theme=radical" alt="Dax GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daxusername&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thatsdaxdeveloper&show_icons=true&theme=radical" alt="Dax GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsdaxdeveloper&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
 
 ---
