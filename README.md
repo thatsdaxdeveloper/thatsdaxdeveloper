@@ -25,6 +25,7 @@
 
 <h3 align="left">Me retrouver sur:</h3>
 <p align="left">
+  <a href="https://dev.to/thatsdaxdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thatsdaxdeveloper" height="30" width="40" /></a>
 <a href="https://codepen.io/thatsdaxdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thatsdaxdeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathanael-moussou-51a857367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanael-moussou-51a857367" height="30" width="40" /></a>
 <a href="https://instagram.com/n9ncharles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n9ncharles" height="30" width="40" /></a>
