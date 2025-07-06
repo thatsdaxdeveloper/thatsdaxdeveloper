@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://nathanaelmoussou.pythonanywhere.com/](https://nathanaelmoussou.pythonanywhere.com/)
 
-- 📝 J’écris des articles sur [https://www.youtube.com/@thatsdaxdeveloper](https://www.youtube.com/@thatsdaxdeveloper)
+- 📝 J’écris des articles sur [https://dev.to/thatsdaxdeveloper](https://dev.to/thatsdaxdeveloper)
 
 - 💬 Tu peux me poser des questions sur **Python, Django, Flutter, Firebase, Supabase**
 
