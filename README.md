@@ -1,4 +1,4 @@
-# Dax (MNCE) — Dev Web · Mobile · Backend · Game Dev · Sécu · Designer
+# Natha Nael (Dax) — Dev Web · Mobile · Backend · Game Dev · Sécu · Designer
 
 Fondateur de **Le Gabarit** — studio de création numérique · [🌐 Portfolio](https://nathanaelmoussou.pythonanywhere.com/)
 
@@ -6,7 +6,7 @@ Fondateur de **Le Gabarit** — studio de création numérique · [🌐 Portfoli
 
 ## 👋 Qui suis-je ?
 
-Je suis **Dax**, développeur et designer freelance, fondateur de **Le Gabarit** — un studio qui conçoit des produits numériques de A à Z : de l’idée au déploiement.
+Je suis **Natha Nael**, développeur et designer freelance, fondateur de **Le Gabarit** — un studio qui conçoit des produits numériques de A à Z : de l’idée au déploiement.
 
 Je travaille sur des projets **web**, **mobile**, **backend**, **game dev**, **sécurité informatique** et **design graphique/UI**.
 
