@@ -1,8 +1,8 @@
-# Dax (MNCE) — Fondateur de [Le Gabarit](https://nathanaelmoussou.pythonanywhere.com/)
+# Dax (MNCE) — Dev Web · Mobile · Backend · Game Dev · Sécu · Designer
 
-> Studio de création numérique · Web · Mobile · Backend · Sécurité · Design
+Fondateur de **Le Gabarit** — studio de création numérique · [🌐 Portfolio](https://nathanaelmoussou.pythonanywhere.com/)
 
------
+---
 
 ## 👋 Qui suis-je ?
 
@@ -57,9 +57,7 @@ Je travaille sur des projets **web**, **mobile**, **backend**, **game dev**, **s
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
 
 ### 🛡️ Sécurité & Outils
 
